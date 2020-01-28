@@ -1,4 +1,4 @@
-# todo_list_with_jest_testing_
+# todo_list_with_jest_testing
 
 ## Created with CodeSandbox
 
